@@ -1,0 +1,7 @@
+﻿  Juego.cpp
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(38,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Asteroide' cuando no hay ninguna variable declarada
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(379,10): warning C4101: 'aux2': variable local sin referencia
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(773,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(860,12): warning C4101: 'asteroideNull': variable local sin referencia
+  VideoJuego.vcxproj -> C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\x64\Debug\VideoJuego.exe

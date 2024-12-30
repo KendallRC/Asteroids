@@ -1,0 +1,13 @@
+﻿  Juego.cpp
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(50,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Asteroide' cuando no hay ninguna variable declarada
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(391,10): warning C4101: 'aux2': variable local sin referencia
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(957,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(1067,12): warning C4101: 'asteroideNull': variable local sin referencia
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(954): warning C4715: 'getRecord': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\VideoJuego\Juego.cpp(930): warning C4715: 'comprobarRecord': no todas las rutas de acceso de control devuelven un valor
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  VideoJuego.vcxproj -> C:\Users\DELL\OneDrive - Estudiantes ITCR\TEC\II Semestre\Estructura de Datos\Proyecto\VideoJuego\x64\Release\VideoJuego.exe
